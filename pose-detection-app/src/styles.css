@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+button{
+  size:15px;
+  z-index: 34;
+  position: absolute;
+}
+h1{
+  position: absolute;
+}
